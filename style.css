@@ -8,6 +8,8 @@ body {
 .header {
     background-color: #1f2937;
     padding: 10px 200px;
+    
+    
 }
 
 .logo-links {
@@ -38,6 +40,11 @@ a {
 .title-container {
     display: flex;
     justify-content: space-between;
+    padding: 90px 0;
+}
+
+.left {
+    max-width: 450px;
 }
 
 .title {
@@ -49,6 +56,7 @@ a {
 .subtext {
     font-size: 18px;
     color: #e5e7eb;
+    margin-bottom: 10px;
 }
 
 button {
