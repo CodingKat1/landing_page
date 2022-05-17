@@ -44,19 +44,19 @@ a {
 }
 
 .left {
-    max-width: 450px;
+    max-width: 460px;
 }
 
 .title {
     color: #f9faf8;
     font-size: 48px;
-    font-weight: extra-bold;
+    font-weight: bolder;
 }
 
 .subtext {
     font-size: 18px;
     color: #e5e7eb;
-    margin-bottom: 10px;
+    margin: 10px 0 10px;
 }
 
 button {
