@@ -84,6 +84,7 @@ button {
     justify-content: center;
     gap: 25px;
     font-size: 18px;
+    margin-bottom: 100px;
 }
 
 .info {
@@ -96,3 +97,26 @@ button {
     border-radius: 12px;
 }
 
+.quote-container {
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    background-color: #e5e7eb;
+    padding: 150px 200px;
+}
+
+.quote {
+    align-self: center;
+    max-width: 800px;
+    font-weight: 100;
+    color: #1f2937;
+    font-size: 36px;
+    font-style: italic;
+}
+
+.signed {
+    align-self: flex-end;
+    margin-right: 350px;
+    font-size: 25px;
+    font-weight: 900;
+}
