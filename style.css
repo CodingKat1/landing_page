@@ -31,6 +31,32 @@ ul {
 
 a {
     text-decoration: none;
-    color: #f9faf8;
+    color: #e5e7eb;
     font-size: 18px;
+}
+
+.title-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.title {
+    color: #f9faf8;
+    font-size: 48px;
+    font-weight: extra-bold;
+}
+
+.subtext {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+button {
+    padding: 8px 30px;
+    border-radius: 8px;
+    background: #3882f6;
+    color: #f9faf8;
+    border: 0;
+    font-size: 18px;
+    font-weight: 900;
 }
