@@ -95,6 +95,7 @@ button {
     width: 175px;
     height: 175px;
     border-radius: 12px;
+    border: solid #3882f6;
 }
 
 .quote-container {
@@ -137,7 +138,11 @@ button {
 }
 
 .call-text {
+    justify-content: flex-start;
     font-size: 16px;
     color: #e5e7eb;
 }
 
+.sign-up2 {
+    border: solid #f9faf8;
+}
