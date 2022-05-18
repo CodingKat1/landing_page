@@ -2,6 +2,8 @@ body {
     display: flex;
     flex-direction: column;
     font-family: Roboto, sans-serif;
+    margin: 0 auto;
+    width: 114em;
 }
 
 
@@ -148,4 +150,13 @@ button {
 .sign-up2 {
     border: solid #f9faf8;
     margin-left: 60px;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    background-color: #1f2937;
+    color: #e5e7eb;
 }
